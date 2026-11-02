@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ardi
 
-<!--
-**Ardi808/Ardi808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner frontend developer currently learning how to build responsive websites using HTML and CSS.
 
-Here are some ideas to get you started:
+I enjoy working on simple web layouts and improving my skills through personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Web Design
+
+## Projects
+
+| Project | Description |
+|---|---|
+| [Recipe Page](https://github.com/Ardi808/recipe-page-main) | A simple recipe page built with HTML and CSS. |
+| [Social Links Profile](https://github.com/Ardi808/social-links-profile-main) | A responsive profile page containing social media links. |
+| [Product Preview Card](https://github.com/Ardi808/product-preview-card-component) | A product preview card built with HTML and CSS. |
+
+## Currently Learning
+
+- JavaScript
+- Advanced CSS
+- Improving responsive layouts
+
+## Contact
+
+GitHub: [Ardi808](https://github.com/Ardi808)
